@@ -10,6 +10,9 @@
 ---
 
 ## 🛠️ Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,postgres,python,git,github,docker,vscode" />
+</p>
 
 ### 💻 Front-end
 
@@ -123,6 +126,13 @@ Projeto de desenvolvimento de uma aplicação web para comércio digital.
 🤖 Inteligência Artificial aplicada ao desenvolvimento  
 ☁️ Desenvolvimento e deploy de aplicações web
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ingrideisg&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrideisg&layout=compact&theme=tokyonight&hide_border=true" height="180">
+</p>
 ---
 
 ## 🎯 Objetivo profissional
